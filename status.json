@@ -1,0 +1,12 @@
+{
+  "active": false,
+  "disabled": true,
+  "title": "Hệ thống tạm ngừng hoạt động",
+  "message": "Ứng dụng trên thiết bị này đã bị vô hiệu hóa từ xa bởi quản trị viên. Vui lòng liên hệ bộ phận hỗ trợ để gia hạn hoặc kích hoạt lại quyền truy cập.",
+  "contactPhone": "0963 666 631",
+  "contactEmail": "thangnq.dev@gmail.com",
+  "minVersion": "1.0.0",
+  "blockedVersions": ["*"],
+  "forceQuit": false
+}
+
