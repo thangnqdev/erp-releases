@@ -7,5 +7,7 @@
   "contactEmail": "nq.thangdev@gmail.com",
   "minVersion": "1.0.0",
   "blockedVersions": [],
-  "forceQuit": false
+  "forceQuit": false,
+  "issuedAt": "2026-11-16T13:44:24.470Z",
+  "signature": "TmqmwRA5WCMRzsl2oJjGP9IJ0CbfN2R4xXg9QkntvSTbMDa0ecCm8XUc4wLcE94PN7tyInaNrSUY8l2C6PHNCw=="
 }
